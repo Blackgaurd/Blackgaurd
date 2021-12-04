@@ -5,7 +5,6 @@
 - 🦃 competitve programming
 - 🦆 machine learning
 - 🦜 algorithms
-- 🐧 hip-hop music
 - 🦢 mechanical keyboards
 
 ### Tools/Technologies
