@@ -1,5 +1,5 @@
 CS @ uWaterloo '28
 
-I like math, computers, and running.
+I like math, computers, and cardio.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackgaurd&layout=compact&langs_count=4)
