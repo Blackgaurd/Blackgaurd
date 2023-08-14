@@ -1,4 +1,4 @@
-CS @ uWaterloo '28
+CS @ uWaterloo
 
 I like math, computers, and cardio.
 
