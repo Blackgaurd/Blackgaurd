@@ -1,4 +1,4 @@
-I like math, computers, and cardio.
+I like math, computers, and cats.
 
 Check out my website: [bryandeng.ca](https://bryandeng.ca).
 
