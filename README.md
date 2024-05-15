@@ -2,6 +2,6 @@
 
 I like math, computers, and my cat.
 
-Most work is done in private repositories. Programming is about learning patterns and principles, not languages - I pride myself in having a different main language in each of my pinned projects.
+Most work is done in private repositories. Programming is about learning patterns and principles, not languages -- I pride myself in having a different main language in each of my pinned projects.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackgaurd&layout=compact&langs_count=4)
