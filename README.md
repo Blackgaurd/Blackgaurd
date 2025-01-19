@@ -4,6 +4,6 @@ I like math, computers, and my cat.
 
 Most work is done in private repositories.
 
-Currently working on: reading Rudin's analysis.
+Currently working on: getting through the school term.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackgaurd&layout=compact&langs_count=6)
